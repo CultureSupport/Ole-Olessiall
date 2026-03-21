@@ -41,7 +41,10 @@ Images of Ole Olessiall Building Projects and How He Manages Coding , View in Gh
   and Living areas
 
   - For Planetary Exploration
-
+- builded houses on other planets
+- finding expansion into
+  constructing materials
+  from earth
 
 
 ---------------
