@@ -69,4 +69,18 @@ tho
 
 
 
+---------------
+
+
+
+
+<img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/e6d2d74d-c89b-4c73-9ed6-e48df1776d11" />
+
+
+Olessiall Build Also Tech
+for Camera View Controll Rooms
+for Showing Robot Clay Workers
+Build on Moon and Other Planets
+
+
 
