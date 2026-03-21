@@ -57,3 +57,16 @@ Other Planets as Building
   Clay 
 
 ---------------
+
+
+<img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/3a9c8a82-94f7-404b-b1a2-6bb219edba54" />
+
+
+he know
+modern nature must be 
+modern nature on other planets 
+tho
+
+
+
+
