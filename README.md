@@ -47,4 +47,13 @@ Images of Ole Olessiall Building Projects and How He Manages Coding , View in Gh
   from earth
 
 
+- Using Clay on Moon and
+
+Other Planets as Building
+
+- Make Clay Back to
+  Earth and Grow
+  Plants on
+  Clay 
+
 ---------------
