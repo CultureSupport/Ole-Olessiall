@@ -23,3 +23,25 @@ Images of Ole Olessiall Building Projects and How He Manages Coding , View in Gh
   NOT UNDERSTAND
 
   - into builded MqTT Broker Apps
+ 
+
+--------
+
+
+<img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/d6e3c289-679e-4e24-9ec5-b29effbd4607" />
+
+
+
+
+---------------
+
+
+- Build Dathu
+- Setting Up Space Technologies
+  and Living areas
+
+  - For Planetary Exploration
+
+
+
+---------------
