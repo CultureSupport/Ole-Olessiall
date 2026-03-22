@@ -102,14 +102,17 @@ Build on Moon and Other Planets
 
 <img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/657752ab-1baa-4506-89b2-d51816e1c075" />
 
+Generating a smooth, polymorphic version of the subjekt, show person in clay image
+
+
 -------------
 
 <img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/fde8e18b-15fb-4038-ab58-8f69d3821f37" />
 
 
-Generating a smooth, polymorphic version of the subjekt, show person in clay image
 
 
+Generating a smooth, polymorphic version of the subjekt, show person in clay image as MQTt developer in office
 
 --------------
 
