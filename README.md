@@ -128,5 +128,15 @@ Algorithm "smooths out the edges" by evaluating small cubes of voxels (called "m
 ----------
 
 
+<img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/13d9ed67-3a70-48ca-9ece-1b93eb0a47da" />
+
+Treat voxels as living cells that replicate or diminish according to programmed rules, effectively reshaping the structure volumetrically. Cyber Matrix environment where geometric definition  split voxels into geometric image shapes and figure cluttered polynomial planes and face structures and image
+
+
+-----------
+
+
+
+
 
 
