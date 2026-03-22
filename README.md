@@ -136,6 +136,11 @@ Treat voxels as living cells that replicate or diminish according to programmed 
 -----------
 
 
+<img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/1f529a9b-2cfb-4e0c-b0b0-e511e4e61696" />
+
+Treat cartoon as living cells that replicate or diminish according to programmed rules, effectively reshaping the structure volumetrically. Cyber Matrix environment where geometric definition split cartoon dimensions into geometric image shapes and figure cluttered polynomial planes and face structures inside splits in dust arrays , show cartoon image
+
+--------
 
 
 
