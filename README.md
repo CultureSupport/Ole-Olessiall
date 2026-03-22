@@ -106,6 +106,11 @@ Build on Moon and Other Planets
 
 <img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/fde8e18b-15fb-4038-ab58-8f69d3821f37" />
 
+
+Generating a smooth, polymorphic version of the subjekt, show person in clay image
+
+
+
 --------------
 
 <img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/47e6928b-dd58-45f0-b5f2-7e72fa376df8" />
