@@ -114,6 +114,9 @@ Build on Moon and Other Planets
 Polymorphic rounded clay matrix 
 
 
+Algorithm "smooths out the edges" by evaluating small cubes of voxels (called "marching cubes") and replacing them with optimized polygonal planes, and voxel density and person in 3d Cyber Matrix Image on office as MQTt developer , show image
+
+
 ----------
 
 
